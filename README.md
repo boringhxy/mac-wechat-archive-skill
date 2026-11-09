@@ -1,5 +1,7 @@
 # Mac WeChat Archive Workflow
 
+> **声明：本项目内容为纯 AI 生成，仅供参考。**
+
 面向 macOS 微信**本地文件存档与读取核验**的说明型 Agent Skill，名称为 `mac-wechat-archive`。
 
 ## 它能协助什么
