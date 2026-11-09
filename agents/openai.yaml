@@ -1,4 +1,4 @@
 interface:
   display_name: "Mac 微信文件存档与读取核验"
   short_description: "限定环境与证据范围的微信文件归档、读取检查及用户手动清理准备"
-  default_prompt: "请使用 $mac-wechat-archive，按本次授权核对 Mac 微信文件归档与读取证据，保护当前新记录和旧版本；明确未验证范围，删除由我本人执行。"
+  default_prompt: "请使用 $mac-wechat-archive，按本次授权检测环境并选择归档或受控读取流程，保护当前新记录和旧版本；明确兼容证据与未知项，删除由我本人执行。"
